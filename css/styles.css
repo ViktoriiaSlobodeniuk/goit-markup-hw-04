@@ -334,6 +334,7 @@ ul {
 .team-item {
   box-shadow: var(--box-shadow-tm);
   border-radius: 0px 0px 4px 4px;
+  background-color: var(--main-bg-cl);
 }
 .teammate-group {
   padding-top: 30px;
